@@ -1,3 +1,3 @@
 # Serverless
 ## Serverless en AWS
-Creación de ejercicios en framework serverless para AWS
+Creación de ejercicios en framework serverless en NodeJs para AWS
